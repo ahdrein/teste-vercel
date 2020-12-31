@@ -5,7 +5,9 @@
   "repository": "https://github.com/ahdrein/teste-vercel.git",
   "license": "MIT",
   "scripts":{
-    "dev": "next dev"
+    "dev": "next dev",
+    "start": "next start",
+    "build": "next build"
   },
   "dependencies": {
     "next": "^10.0.4",
